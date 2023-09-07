@@ -1,0 +1,18 @@
+In object-oriented programming (OOP), a class serves as a blueprint or template for creating objects. An instance of a class refers to a specific object that is created based on that class's blueprint.
+Here's a breakdown of these terms:
+
+Class: A class is a blueprint or a template for creating objects.
+It defines the structure and behavior that its instances (objects) will have.
+A class specifies the attributes (data) and methods (functions) that objects created from it will possess.
+
+Object: An object is a concrete instantiation of a class. It is a specific,
+individual entity created based on the blueprint defined by a class.
+Objects have state (defined by their attributes) and can perform actions (defined by their methods).
+
+Here's a simple analogy to help understand the concept better:
+
+Class (Blueprint): Think of a class as a blueprint for a house. It defines the design, layout, and features that all houses built from that blueprint will have. It specifies the number of rooms, the type of flooring, and so on.
+
+Object (Instance): An instance of the class, in this analogy, is a specific house that is built based on that blueprint. Each house built from the same blueprint will have the same structure and features, but they may have different values for attributes (e.g., the color of the walls).
+
+In Java, for example, when you create an object from a class, you're instantiating that class to create a unique object with its own data and behavior, but following the structure defined by the class.

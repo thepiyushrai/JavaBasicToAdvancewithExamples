@@ -1,0 +1,11 @@
+In Java, the scope of a variable refers to the portion of the code where the variable is accessible or visible.
+There are mainly three types of variables in Java based on their scope:
+
+Local Variables: These are variables declared inside a method, constructor, or a block of code.
+They are only accessible within the method, constructor, or block where they are declared.
+
+Instance Variables (also known as Member Variables): These are variables declared within a class but outside of any method, constructor, or block.
+ They are accessible throughout the class and are used to store instance-specific data.
+
+Class Variables (also known as Static Variables): These are variables declared within a class and marked as static. They are shared among all
+ instances of the class and can be accessed using the class name.
